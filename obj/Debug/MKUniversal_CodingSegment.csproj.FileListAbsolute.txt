@@ -1,0 +1,16 @@
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\bin\Debug\MKUniversal_CodingSegment.exe.config
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\bin\Debug\MKUniversal_CodingSegment.exe
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\bin\Debug\MKUniversal_CodingSegment.pdb
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MKUniversal_CodingSegment.csproj.AssemblyReference.cache
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MKUniversal_CodingSegment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MainWindow.g.cs
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\App.g.cs
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MKUniversal_CodingSegment_MarkupCompile.cache
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MKUniversal_CodingSegment_MarkupCompile.lref
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MainWindow.baml
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MKUniversal_CodingSegment.g.resources
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MKUniversal_CodingSegment.Properties.Resources.resources
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MKUniversal_CodingSegment.csproj.GenerateResource.cache
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MKUniversal_CodingSegment.csproj.CoreCompileInputs.cache
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MKUniversal_CodingSegment.exe
+C:\Users\Stev-\OneDrive\Desktop\MKUniversal_CodingSegment\obj\Debug\MKUniversal_CodingSegment.pdb

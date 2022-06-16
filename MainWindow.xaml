@@ -1,0 +1,19 @@
+﻿<Window x:Class="MKUniversal_CodingSegment.MainWindow"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MKUniversal_CodingSegment"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="myCanvas">
+
+        <Ellipse HorizontalAlignment="Center" Height="300"  Stroke="Black" VerticalAlignment="Center" Width="300"/>
+        <TextBox x:Name="txtBoxPoints" HorizontalAlignment="Left" Margin="30,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="179" Height="33"/>
+        <Label x:Name="label" Content="Enter Number of Points:" HorizontalAlignment="Left" Margin="30,73,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btnGeneratePoints" Content="Generate Points" Margin="30,137,0,0" Click="button_Click" HorizontalAlignment="Left" VerticalAlignment="Top" Height="45" Width="179"/>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="132" Margin="22,67,0,0" VerticalAlignment="Top" Width="194"/>
+
+    </Grid>
+</Window>
